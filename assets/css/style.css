@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  padding: 0 32px;
+  margin: auto;
+}
+
+.main {
+  width: 100%;
+  background-color: aliceblue;
+}
+.main .m-all {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 100px;
+  padding: 150px 0;
+}
+.main .m-all .input {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+.main .m-all .input input {
+  width: 35%;
+  padding: 15px 0;
+  border: 1px solid navy;
+  font-size: 15px;
+}
+.main .m-all .input select {
+  width: 15%;
+  padding: 15px 0;
+  background-color: navy;
+  color: wheat;
+}
+.main .m-all .m-divs {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: space-between;
+}
+.main .m-all .m-divs #form {
+  width: 50%;
+  margin: auto;
+  border: 2px solid navy;
+  color: navy;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 50px;
+  font-size: 22px;
+}
+.main .m-all .m-divs #form p {
+  color: red;
+  display: none;
+}
+.main .m-all .m-divs #form input {
+  padding: 10px 0;
+}
+.main .m-all .m-divs #form #submit {
+  width: 150px;
+  color: navy;
+  cursor: pointer;
+  font-size: 20px;
+  background: none;
+  border: 1px solid white;
+}
+.main .m-all .m-divs table {
+  width: 100%;
+  margin-top: 150px;
+  border: 1px solid navy;
+}
+.main .m-all .m-divs table td,
+.main .m-all .m-divs table th {
+  border: 1px solid navy;
+  padding: 10px 0;
+  color: white;
+  font-size: 20px;
+}
+.main .m-all .m-divs .div10 {
+  width: 47%;
+  background-color: white;
+  border: 1px solid black;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+.main .m-all .m-divs .div10 .img-text {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.main .m-all .m-divs .div10 .img-text .img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+.main .m-all .m-divs .div10 .img-text .img img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.main .m-all .m-divs .div10 .img-text .text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.main .m-all .m-divs .div10 .img-text .text h3 {
+  font-size: 21px;
+}
+.main .m-all .m-divs .div10 .img-text .text p {
+  font-size: 18px;
+  color: gray;
+}
+.main .m-all .m-divs .div10 .num {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  flex-direction: column;
+}
+
+.m {
+  width: 100%;
+  background-image: url("../img/dish-3.jpg");
+  background-position: center;
+  background-size: cover;
+}/*# sourceMappingURL=style.css.map */

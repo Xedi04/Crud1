@@ -1,0 +1,83 @@
+{
+  "Crud": [
+    {
+      "id": 1,
+      "name": "Grilled Beef with potatoes",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 20,
+      "img": "./assets/img/dish-3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Savory Watercress Chinese Pancakes",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 17,
+      "img": "./assets/img/dish-4.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fruit Vanilla Ice Cream",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 34,
+      "img": "./assets/img/dish-5.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Soup With Vegetables And Meat",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 76,
+      "img": "./assets/img/dish-6.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Asian Hoisin Pork",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 69,
+      "img": "./assets/img/dish-7.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Udon Noodles With Vegetables",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 32,
+      "img": "./assets/img/dish-8.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Spicy Fried Rice & Bacon",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 11,
+      "img": "./assets/img/dish-9.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Baked Lobster With A Garnish",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 90,
+      "img": "./assets/img/dish-10.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mango Chili Chutney",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 47,
+      "img": "./assets/img/dish-10.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Octopus with Vegetables",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 85,
+      "img": "./assets/img/dish-11.jpg"
+    }
+  ],
+  "Fav": [
+    {
+      "id": 1,
+      "name": "Grilled Beef with potatoes",
+      "des": "Meat, Potatoes, Rice, Tomatoe",
+      "price": 20,
+      "img": "./assets/img/dish-3.jpg"
+    }
+  ]
+}
